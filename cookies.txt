@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.wix.com	TRUE	/robots.txt	FALSE	1999999999	_wixAB3	2959650#1
+.wix.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1707578177|JTae5f8p5dTa
+www.wix.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.wix.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly_84
+
